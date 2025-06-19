@@ -2,9 +2,9 @@
 
 Mi primer repositorio
 
-i love :hamburger: , :cinema: , :video_game: , :dog2:
+i love :hamburger: , :cinema: , :video_game: , :dog2: , :white_heart::heart::white_heart:
 
-i love :woman_playing_handball: , :cold_face: , :musical_note:
+i love :woman_playing_handball: , :cold_face: , :musical_note: , :zombie:
 
 Me gusta pasear con mi :dog2: 
 
